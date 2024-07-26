@@ -1,3 +1,3 @@
 # hello-world
 #check
-print ("hello world")
+print ("hello python")
